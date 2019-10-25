@@ -1,1 +1,1 @@
-[cppcheck](cppcheck.docx)
+[cppcheck](rel= 'cppcheck.docx')
